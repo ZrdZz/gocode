@@ -170,3 +170,8 @@ func main() {
 	go clientGo(1)
 	wg.Wait()
 }
+
+1
+2
+3
+
